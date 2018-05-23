@@ -65,7 +65,7 @@
 		/**
 		 * Map model props to media frame props.
 		 *
-		 * @param {Object} modelProps - Model props.
+		 * @param {Object} modelProps - Models props.
 		 * @returns {Object} Media frame props.
 		 */
 		mapModelToMediaFrameProps: function mapModelToMediaFrameProps( modelProps ) {

@@ -343,7 +343,7 @@
 			 * @param {wp.shortcode} shortcode An instance of wp.shortcode().
 			 * @returns {wp.media.model.Attachments} A Backbone.Collection containing
 			 *      the media items belonging to a collection.
-			 *      The query[ this.tag ] property is a Backbone.Model
+			 *      The query[ this.tag ] property is a Backbone.Models
 			 *          containing the 'props' for the collection.
 			 */
 			attachments: function( shortcode ) {
@@ -408,7 +408,7 @@
 			 *
 			 * @param {wp.media.model.Attachments} attachments A Backbone.Collection containing
 			 *      the media items belonging to a collection.
-			 *      The query[ this.tag ] property is a Backbone.Model
+			 *      The query[ this.tag ] property is a Backbone.Models
 			 *          containing the 'props' for the collection.
 			 * @returns {wp.shortcode}
 			 */

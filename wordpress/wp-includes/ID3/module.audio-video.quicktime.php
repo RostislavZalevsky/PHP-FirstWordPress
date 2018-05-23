@@ -2247,7 +2247,7 @@ if (!empty($atom_structure['sample_description_table'][$i]['width']) && !empty($
 
 		$NCTGtagName = array(
 			0x00000001 => 'Make',
-			0x00000002 => 'Model',
+			0x00000002 => 'Models',
 			0x00000003 => 'Software',
 			0x00000011 => 'CreateDate',
 			0x00000012 => 'DateTimeOriginal',

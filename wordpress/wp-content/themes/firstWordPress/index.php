@@ -22,7 +22,7 @@
 </header>
 <main>
     <?php
-    include_once 'Model/Profile.php';
+    include_once 'Models/Profile.php';
 
     if(isset($_POST["FullName"]) && isset($_POST["DateofBirth"]))//TODO: AJAX, File Server
     {

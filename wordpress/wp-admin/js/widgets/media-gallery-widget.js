@@ -84,7 +84,7 @@
 		 *
 		 * @since 4.9.0
 		 * @param {Object}         options - Options.
-		 * @param {Backbone.Model} options.model - Model.
+		 * @param {Backbone.Model} options.model - Models.
 		 * @param {jQuery}         options.el - Control field container element.
 		 * @param {jQuery}         options.syncContainer - Container element where fields are synced for the server.
 		 * @returns {void}

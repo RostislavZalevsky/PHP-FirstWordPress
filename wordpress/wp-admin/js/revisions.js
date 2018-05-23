@@ -366,7 +366,7 @@ window.wp = window.wp || {};
 	 *
 	 * @see wp.revisions.view.Frame
 	 *
-	 * @param {object}                    attributes        Model attributes - none are required.
+	 * @param {object}                    attributes        Models attributes - none are required.
 	 * @param {object}                    options           Options for the model.
 	 * @param {revisions.model.Revisions} options.revisions A collection of revisions.
 	 */

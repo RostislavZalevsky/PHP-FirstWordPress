@@ -54,7 +54,7 @@ wp.mediaWidgets = ( function( $ ) {
 		/**
 		 * Get the display settings model.
 		 *
-		 * Model returned is updated with the current customized display settings,
+		 * Models returned is updated with the current customized display settings,
 		 * and an event listener is added so that changes made to the settings
 		 * will sync back into the model storing the session's customized display
 		 * settings.
@@ -476,7 +476,7 @@ wp.mediaWidgets = ( function( $ ) {
 		 * Initialize.
 		 *
 		 * @param {Object}         options - Options.
-		 * @param {Backbone.Model} options.model - Model.
+		 * @param {Backbone.Model} options.model - Models.
 		 * @param {jQuery}         options.el - Control field container element.
 		 * @param {jQuery}         options.syncContainer - Container element where fields are synced for the server.
 		 * @returns {void}
@@ -857,7 +857,7 @@ wp.mediaWidgets = ( function( $ ) {
 		 * Map media frame props to model props.
 		 *
 		 * @param {Object} mediaFrameProps - Media frame props.
-		 * @returns {Object} Model props.
+		 * @returns {Object} Models props.
 		 */
 		mapMediaToModelProps: function mapMediaToModelProps( mediaFrameProps ) {
 			var control = this, mediaFramePropToModelPropMap = {}, modelProps = {}, extension;
@@ -907,7 +907,7 @@ wp.mediaWidgets = ( function( $ ) {
 		/**
 		 * Map model props to media frame props.
 		 *
-		 * @param {Object} modelProps - Model props.
+		 * @param {Object} modelProps - Models props.
 		 * @returns {Object} Media frame props.
 		 */
 		mapModelToMediaFrameProps: function mapModelToMediaFrameProps( modelProps ) {
@@ -1012,7 +1012,7 @@ wp.mediaWidgets = ( function( $ ) {
 		/**
 		 * Set attribute value(s).
 		 *
-		 * This is a wrapped version of Backbone.Model#set() which allows us to
+		 * This is a wrapped version of Backbone.Models#set() which allows us to
 		 * cast the attribute values from the hidden inputs' string values into
 		 * the appropriate data types (integers or booleans).
 		 *

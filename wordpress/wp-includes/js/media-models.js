@@ -327,7 +327,7 @@ var $ = Backbone.$,
 Attachment = Backbone.Model.extend(/** @lends wp.media.model.Attachment.prototype */{
 	/**
 	 * Triggered when attachment details change
-	 * Overrides Backbone.Model.sync
+	 * Overrides Backbone.Models.sync
 	 *
 	 * @param {string} method
 	 * @param {wp.media.model.Attachment} model
@@ -406,7 +406,7 @@ Attachment = Backbone.Model.extend(/** @lends wp.media.model.Attachment.prototyp
 		// Otherwise, fall back to `Backbone.sync()`.
 		} else {
 			/**
-			 * Call `sync` directly on Backbone.Model
+			 * Call `sync` directly on Backbone.Models
 			 */
 			return Backbone.Model.prototype.sync.apply( this, arguments );
 		}
