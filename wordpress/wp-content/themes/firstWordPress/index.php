@@ -17,9 +17,7 @@
     </style>
 </head>
 <body>
-<header>
-    <h1 class="text-center">FirstWordPress</h1>
-</header>
+<?php get_header()?>
 <main>
     <?php
     include_once 'Models/Profile.php';
@@ -51,8 +49,6 @@
         </form>
     <? } ?>
 </main>
-<footer class="text-large text-center">
-    <p>By Rostislav Z &copy; <?echo date('Y')?></p>
-</footer>
+<?php get_footer()?>
 </body>
 </html>

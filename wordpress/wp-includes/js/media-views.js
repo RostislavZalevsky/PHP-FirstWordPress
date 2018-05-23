@@ -4304,7 +4304,7 @@ Modal = wp.media.View.extend(/** @lends wp.media.view.Modal.prototype */{
 	},
 
 	/**
-	 * @param {Array|Object} content Views to register to '.media-modal-content'
+	 * @param {Array|Object} content Layout to register to '.media-modal-content'
 	 * @returns {wp.media.view.Modal} Returns itself to allow chaining
 	 */
 	content: function( content ) {

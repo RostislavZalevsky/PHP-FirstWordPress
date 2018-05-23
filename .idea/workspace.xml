@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d946956-a9c8-450a-8f57-ae4092ab15a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/includes/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/includes/image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/js/revisions.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/js/revisions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-audio-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-audio-widget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-gallery-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-gallery-widget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-video-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-video-widget.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/js/widgets/media-widgets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Model/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Models/Profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/ID3/module.audio-video.quicktime.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/ID3/module.audio-video.quicktime.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/media-editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/media-editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/media-models.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/media-models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/mce-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/mce-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/media-views.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/media-views.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/wp-backbone.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/wp-backbone.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +38,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,6 +68,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/FirstWordPress/index.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/style.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Model/Profile.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Layout/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Layout/footer.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" />
       </list>
     </option>
@@ -167,15 +175,16 @@
       <updated>1527010478698</updated>
       <workItem from="1527010481040" duration="4447000" />
       <workItem from="1527069948682" duration="152000" />
-      <workItem from="1527070750480" duration="2272000" />
+      <workItem from="1527070750480" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6871000" />
+    <option name="totallyTimeSpent" value="7290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -241,17 +250,31 @@
     <entry file="file://$PROJECT_DIR$/wordpress/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Models/Profile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>

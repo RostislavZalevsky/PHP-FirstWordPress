@@ -763,7 +763,7 @@
 
 /*
  * The WordPress core TinyMCE views.
- * Views for the gallery, audio, video, playlist and embed shortcodes,
+ * Layout for the gallery, audio, video, playlist and embed shortcodes,
  * and a view for embeddable URLs.
  */
 ( function( window, views, media, $ ) {

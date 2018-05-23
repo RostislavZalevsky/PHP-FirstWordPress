@@ -70,7 +70,7 @@ window.wp = window.wp || {};
 		// > If `options.silent` is true, no DOM modifications will be made.
 		//
 		// `options.add` &ndash; *boolean, `false`*
-		// > Use `Views.add()` as a shortcut for setting `options.add` to true.
+		// > Use `Layout.add()` as a shortcut for setting `options.add` to true.
 		//
 		// > By default, the provided `views` will replace
 		// any existing views associated with the selector. If `options.add`
@@ -136,7 +136,7 @@ window.wp = window.wp || {};
 
 		// ### Add subview(s) to existing subviews
 		//
-		// An alias to `Views.set()`, which defaults `options.add` to true.
+		// An alias to `Layout.set()`, which defaults `options.add` to true.
 		//
 		// Adds any number of `views` to a `selector`.
 		//
@@ -144,14 +144,14 @@ window.wp = window.wp || {};
 		// is used. `views` accepts a `Backbone.View` instance or an array of
 		// `Backbone.View` instances.
 		//
-		// Use `Views.set()` when setting `options.add` to `false`.
+		// Use `Layout.set()` when setting `options.add` to `false`.
 		//
 		// Accepts an `options` object. By default, provided `views` will be
 		// inserted at the end of the array of existing views. To insert
 		// `views` at a specific index, use `options.at`. If `options.silent`
 		// is true, no DOM modifications will be made.
 		//
-		// For more information on the `options` object, see `Views.set()`.
+		// For more information on the `options` object, see `Layout.set()`.
 		add: function( selector, views, options ) {
 			if ( ! _.isString( selector ) ) {
 				options  = views;
@@ -197,7 +197,7 @@ window.wp = window.wp || {};
 		// Detaches all subviews from the DOM.
 		//
 		// Helps to preserve all subview events when re-rendering the master
-		// view. Used in conjunction with `Views.render()`.
+		// view. Used in conjunction with `Layout.render()`.
 		detach: function() {
 			$( _.pluck( this.all(), 'el' ) ).detach();
 			return this;
@@ -205,7 +205,7 @@ window.wp = window.wp || {};
 
 		// ### Render all subviews
 		//
-		// Renders all subviews. Used in conjunction with `Views.detach()`.
+		// Renders all subviews. Used in conjunction with `Layout.detach()`.
 		render: function() {
 			var options = {
 					ready: this._isReady()
@@ -342,7 +342,7 @@ window.wp = window.wp || {};
 	//
 	// The base view class.
 	wp.Backbone.View = Backbone.View.extend({
-		// The constructor for the `Views` manager.
+		// The constructor for the `Layout` manager.
 		Subviews: wp.Backbone.Subviews,
 
 		constructor: function( options ) {
