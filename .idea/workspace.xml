@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d946956-a9c8-450a-8f57-ae4092ab15a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/css/easy4you.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/fonts/MyriadPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/fonts/Nexa Bold_0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/fonts/Nexa Light_0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/fonts/NixieOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/js/easy4you.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/mce-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/mce-view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/media-views.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/media-views.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/wp-backbone.js" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/wp-backbone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-admin/includes/file.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-admin/includes/file.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Models/Profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee-100x100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee-1024x614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee-300x180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee-768x461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/coffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso-100x100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso-1024x614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso-300x180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso-768x461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/espresso.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich-100x100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich-1024x614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich-300x180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich-768x461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2018/05/sandwich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-includes/functions.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,10 +74,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,6 +117,21 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$wp_customize</find>
+      <find>Foot</find>
+      <find>lwp_footer_callout</find>
+      <find>footer_callout</find>
+      <find>lwp-footer-callout-section</find>
+      <find>lwp-footer-callout-text</find>
+      <find>email</find>
+      <find>contact-us-email-section</find>
+      <find>Menus</find>
+      <find>nav</find>
+      <find>contact-us</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +147,18 @@
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Layout/header.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Layout/footer.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/index.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/footer.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/functions.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/functions.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/function.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/footer.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php" />
       </list>
     </option>
   </component>
@@ -94,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,12 +213,45 @@
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="firstWordPress" type="462c0819:PsiDirectoryNode" />
+              <item name="easy4you" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstWordPress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstWordPress" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="learningWordPress-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstWordPress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstWordPress" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentyfifteen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstWordPress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstWordPress" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstWordPress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstWordPress" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentysixteen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,9 +265,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Layout" />
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress" />
       <recent name="$PROJECT_DIR$/wp-content/themes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes" />
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/easy4you" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -175,29 +299,35 @@
       <updated>1527010478698</updated>
       <workItem from="1527010481040" duration="4447000" />
       <workItem from="1527069948682" duration="152000" />
-      <workItem from="1527070750480" duration="2691000" />
+      <workItem from="1527070750480" duration="3679000" />
+      <workItem from="1527614916712" duration="729000" />
+      <workItem from="1527615893386" duration="421000" />
+      <workItem from="1527616640162" duration="896000" />
+      <workItem from="1527620003511" duration="982000" />
+      <workItem from="1527626774576" duration="915000" />
+      <workItem from="1527629712144" duration="1675000" />
+      <workItem from="1527669150791" duration="4917000" />
+      <workItem from="1527676168495" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7290000" />
+    <option name="totallyTimeSpent" value="19077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50143063" side_tool="true" weight="0.32969698" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="7" weight="0.28" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.3297568" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -206,8 +336,33 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="7" weight="0.28" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.32848486" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4985694" weight="0.32848486" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32848486" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.28" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -215,14 +370,103 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/wordpress</wordpressPath>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="1560">
+          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyfifteen/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyseventeen/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyfifteen/image.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/594cf20e-93ae-4b23-a953-3b4c457d4462/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -240,41 +484,109 @@
     <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/js/xfn.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/style.css" />
     <entry file="file://$PROJECT_DIR$/wordpress/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Models/Profile.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/Models/Profile.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/css/easy4you.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/header.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyseventeen/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="45">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/footer.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyfifteen/image.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/firstWordPress/index.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyfifteen/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/header.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/style.css" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/index.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="12" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/learningWordPress-2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyfifteen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/easy4you/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
         </state>
       </provider>
     </entry>

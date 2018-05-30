@@ -1895,7 +1895,7 @@ function wp_privacy_generate_personal_data_export_file( $request_id ) {
 	}
 
 	// Protect export folder from browsing.
-	$index_pathname = $exports_dir . 'index.html';
+	$index_pathname = $exports_dir . 'index.php';
 	if ( ! file_exists( $index_pathname ) ) {
 		$file = fopen( $index_pathname, 'w' );
 		if ( false === $file ) {
@@ -2015,7 +2015,7 @@ function wp_privacy_generate_personal_data_export_file( $request_id ) {
 
 	$zip = new ZipArchive;
 	if ( true === $zip->open( $archive_pathname, ZipArchive::CREATE ) ) {
-		if ( ! $zip->addFile( $html_report_pathname, 'index.html' ) ) {
+		if ( ! $zip->addFile( $html_report_pathname, 'index.php' ) ) {
 			$error = __( 'Unable to add data to export file.' );
 		}
 
